@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <customer_update>false</customer_update>
+        <id>x_snc_ipinfo_spoke.IPInfo_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>IPInfo_Alias</name>
+        <replace_on_upgrade>false</replace_on_upgrade>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>amitkumar.shukla</sys_created_by>
+        <sys_created_on>2019-12-24 06:33:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1e1f6f97db354814d9b0fb051d961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ipinfo_spoke.IPInfo_Alias</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_snc_ipinfo_spoke">babe1b13dbf14814d9b0fb051d96196c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IPInfo Spoke">babe1b13dbf14814d9b0fb051d96196c</sys_scope>
+        <sys_update_name>sys_alias_1e1f6f97db354814d9b0fb051d961939</sys_update_name>
+        <sys_updated_by>amitkumar.shukla</sys_updated_by>
+        <sys_updated_on>2019-12-24 06:33:48</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

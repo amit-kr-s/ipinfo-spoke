@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <customer_update>false</customer_update>
+        <id>63282b5fdbf14814d9b0fb051d96190e</id>
+        <name>Action Test Flow</name>
+        <replace_on_upgrade>false</replace_on_upgrade>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>amitkumar.shukla</sys_created_by>
+        <sys_created_on>2019-12-24 06:03:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ab282b5fdbf14814d9b0fb051d96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_snc_ipinfo_spoke">babe1b13dbf14814d9b0fb051d96196c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IPInfo Spoke">babe1b13dbf14814d9b0fb051d96196c</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_ab282b5fdbf14814d9b0fb051d96190e</sys_update_name>
+        <sys_updated_by>amitkumar.shukla</sys_updated_by>
+        <sys_updated_on>2019-12-24 06:03:00</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
